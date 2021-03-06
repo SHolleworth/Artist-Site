@@ -1,0 +1,24 @@
+CACHE MANIFEST
+
+#Stylesheets
+CSS/stylesheet.css
+CSS/print.css
+
+#Javascript
+JS/script.js
+JS/Jquery.js
+
+#Pages
+index.html
+digital.html
+trad.html
+about.html
+contact.html
+
+#Index page image
+Images/prettylady.jpg
+
+NETWORK
+
+FALLBACK
+

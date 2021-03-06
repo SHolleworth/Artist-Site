@@ -1,0 +1,57 @@
+@media  print {
+  body {
+  background-color: #1b1b1b;
+  }
+
+  p {
+    font-family: serif;
+    color: black;
+  }
+
+  h3 {
+    color: black;
+  }
+
+  nav {
+    display: none;
+  }
+
+  header {
+    display: none;
+  }
+
+  header ul {
+    display: none;
+  }
+
+  header ul li {
+    display: none;
+  }
+
+  header ul li a {
+    display: none;
+  }
+
+  .wrapper {
+    width: inherit;
+    height: inherit;
+    z-index: -1;
+    -webkit-print-color-adjust: exact;
+    border: none;
+  }
+
+.gallery {
+  height: 200px;
+  width: 200px;
+  box-shadow: none;
+}
+
+  .gallery img {
+    height: 200px;
+  }
+
+  .portrait {
+    display: none;
+  }
+
+}
